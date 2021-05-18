@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T06:31:12.229Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="KQ1HGigJp3HHkV8C-rXn" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T06:39:00.036Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="mlgbt8ZgbLmxKFYYqIxv" version="14.6.13" type="github">
   <diagram id="OTo5Feen4saOyW0Ed6n6" name="Page-1">
     <mxGraphModel dx="1296" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -99,6 +99,9 @@
         </mxCell>
         <mxCell id="w-2gReXeAoHglQXPs9pq-34" value="Access to reports" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="610" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w-2gReXeAoHglQXPs9pq-35" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;CocinaClick&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="20" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
